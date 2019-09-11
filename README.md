@@ -1,1 +1,1 @@
-[Image Capture demo](http://simpl.info/imagecapture/)
+Image Capture using javascript
